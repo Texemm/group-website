@@ -21,3 +21,5 @@ are caused by two trailing spaces at the end of a line.
 3. Library Carpentry
     1. Section 1
     2. Section 2
+
+4. Design Library
