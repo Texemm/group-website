@@ -23,3 +23,5 @@ are caused by two trailing spaces at the end of a line.
     2. Section 2
 
 4. Design Library
+
+![University of Leeds Logo](./
