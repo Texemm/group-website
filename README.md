@@ -24,4 +24,4 @@ are caused by two trailing spaces at the end of a line.
 
 4. Design Library
 
-![University of Leeds Logo](./
+![University of Leeds Logo](./UniLogo.png)
