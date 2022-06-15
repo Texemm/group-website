@@ -25,3 +25,5 @@ are caused by two trailing spaces at the end of a line.
 4. Design Library
 
 ![University of Leeds Logo](./UniLogo.png)
+
+University of Leeds Logo, copywrite University of Leeds 2022
